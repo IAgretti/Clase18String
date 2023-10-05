@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase18R\Clase18R\bin\Debug\net6.0\Clase18R.exe
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase18R\Clase18R\bin\Debug\net6.0\Clase18R.deps.json
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase18R\Clase18R\bin\Debug\net6.0\Clase18R.runtimeconfig.json
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase18R\Clase18R\bin\Debug\net6.0\Clase18R.dll
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase18R\Clase18R\bin\Debug\net6.0\Clase18R.pdb
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase18R\Clase18R\obj\Debug\net6.0\Clase18R.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase18R\Clase18R\obj\Debug\net6.0\Clase18R.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase18R\Clase18R\obj\Debug\net6.0\Clase18R.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase18R\Clase18R\obj\Debug\net6.0\Clase18R.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase18R\Clase18R\obj\Debug\net6.0\Clase18R.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase18R\Clase18R\obj\Debug\net6.0\Clase18R.dll
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase18R\Clase18R\obj\Debug\net6.0\refint\Clase18R.dll
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase18R\Clase18R\obj\Debug\net6.0\Clase18R.pdb
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase18R\Clase18R\obj\Debug\net6.0\Clase18R.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase18R\Clase18R\obj\Debug\net6.0\ref\Clase18R.dll
